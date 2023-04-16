@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello, Folks 👋
 
+[<img align="left" alt="me" src="https://simpleicons.org/icons/aboutdotme.svg" />][I am Joseph Tobi a software developer (currently specializes in fullstack mobile and web development) pursuing my Bachelors in Systems Engineering.] 
 <!--
 **Jtobyy/Jtobyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
