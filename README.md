@@ -12,7 +12,6 @@
 
 - 💬 Ask me about space science and the multiverse 😄
 
-- Pronouns: He/Him.
 
 <!--
 **Jtobyy/Jtobyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
