@@ -1,9 +1,11 @@
 ### Hello, Folks 👋
 
-✨ I am Joseph Tobi a software developer (currently specializes in fullstack mobile and web development) pursuing my Bachelors in Systems Engineering.
+- ✨ I am Joseph Tobi a software developer (currently specializes in fullstack mobile and web development) pursuing my Bachelors in Systems Engineering.
 
+- 🌱 I enjoy learning new technologies, using them and figuring out the best scenarios in which one does better than the other.
 
-<!--
+![](https://img.shields.io/badge/playstation?style=for-the-badge&logo=PlayStation&logoColor=white)
+
 **Jtobyy/Jtobyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,5 +17,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡PlayStation Fun fact: ...
 -->
