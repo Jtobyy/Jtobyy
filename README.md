@@ -1,6 +1,6 @@
 ### Hello, Folks 👋
 
-![](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=Welcome to the Jungle&logoColor=white) I am Joseph Tobi a software developer (currently specializes in fullstack mobile and web development) pursuing my Bachelors in Systems Engineering.
+✨ I am Joseph Tobi a software developer (currently specializes in fullstack mobile and web development) pursuing my Bachelors in Systems Engineering.
 
 
 <!--
