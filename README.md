@@ -12,4 +12,4 @@
 
 - 💬 Ask me about space science and the multiverse 😄.
   
-- 💙 My best and go-to language is python. In fact, I think I speak python better that I speak my native language 😀.
+- 💙 My best language is python. In fact, I speak python better that I speak German 😀.
