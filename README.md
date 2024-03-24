@@ -10,7 +10,7 @@
 
 🎮 Outside the tech realm, I'm an avid video gamer, from dominating on FIFA to unleashing brutal combos in Mortal Kombat. When I'm not gaming, you'll often find me engrossed in books and articles, constantly expanding my knowledge base.
 
-🚀 Fun fact: While I'm fluent in Python, I can confidently say that I speak Python better than I speak German! 😄
+🚀 Fun fact: I'm better at Python than I am at speaking German! 😄
 
 💬 Feel free to strike up a conversation about anything, from space science and the mysteries of the multiverse to the latest tech trends and project ideas. Let's chat and explore the endless possibilities!
 
