@@ -6,7 +6,7 @@
 
 🤝 I'm eager to collaborate on exciting open-source projects and creative, fun ideas that push the boundaries of what's possible. Let's build something amazing together! 😉
 
-🔧 Right now, I'm hard at work with the Kweekatel team. I'm also open to collaborative opportunities that ignite my creativity.
+🔧 I'm currently working on BidFlow — an AI-powered bid management platform. I'm also open to collaborative opportunities that spark creativity and innovation.
 
 🎮 Outside the tech realm, I'm an avid video gamer, from dominating on FIFA to unleashing brutal combos in Mortal Kombat. When I'm not gaming, you'll often find me engrossed in books and articles, constantly expanding my knowledge base.
 
