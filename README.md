@@ -1,6 +1,6 @@
 ### Hey there, I'm Joseph Tobi! 👋
 
-🚀 I'm a passionate software engineer currently specializing in fullstack mobile and web development, and I'm on a mission to turn innovative ideas into powerful tech solutions.
+🚀 I'm a passionate senior software engineer currently specializing in fullstack mobile and web development, and I'm on a mission to turn innovative ideas into powerful tech solutions.
 
 🌱 I continuously refine my expertise, selecting the best tools and technologies to build efficient, scalable solutions.
 
