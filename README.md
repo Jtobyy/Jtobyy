@@ -1,17 +1,18 @@
 ### Hey there, I'm Joseph Tobi! 👋
 
-🚀 I'm a passionate senior software engineer currently specializing in fullstack mobile and web development, and I'm on a mission to turn innovative ideas into powerful tech solutions.
+🚀 I'm a senior software engineer working across mobile and web, with a soft spot for the hard parts: real-time messaging, voice, and systems that have to stay up when everything else blinks.
 
-🌱 I continuously refine my expertise, selecting the best tools and technologies to build efficient, scalable solutions.
+🔧 Right now I'm building NativeTalk, a communications platform that pulls WhatsApp, Instagram, SMS, email and live phone calls into one place so support teams can stop juggling tabs. Multi-tenant, real-time, and a lot more telephony than most people expect.
 
-🤝 I'm eager to collaborate on exciting open-source projects and creative, fun ideas that push the boundaries of what's possible. Let's build something amazing together! 😉
+🛠️ Day to day that means Python and Django, TypeScript and NestJS, React and React Native, Go where it needs to be fast, and FreeSWITCH whenever there's a phone call involved.
 
-🔧 I'm currently working on BidFlow — an AI-powered bid management platform. I'm also open to collaborative opportunities that spark creativity and innovation.
+🤝 I'm always up for collaborating on open-source projects and creative ideas that push at the edges of what's possible. Let's build something worth using.
 
-🎮 Outside the tech realm, I'm an avid video gamer, from dominating on FIFA to unleashing brutal combos in Mortal Kombat. When I'm not gaming, you'll often find me engrossed in books and articles, constantly expanding my knowledge base.
+🎮 Outside tech I'm an avid gamer, from dominating on FIFA to unleashing brutal combos in Mortal Kombat. When I'm not gaming you'll usually find me deep in a book or an article, quietly expanding the knowledge base.
 
-🚀 Fun fact: I'm better at Python than I am at speaking German! 😄
+😄 Fun fact: I'm better at Python than I am at speaking German.
 
-💬 Feel free to strike up a conversation about anything, from space science and the mysteries of the multiverse to the latest tech trends and project ideas. Let's chat and explore the endless possibilities!
+💬 Happy to talk about anything, from space science and the mysteries of the multiverse to the latest tech trends and half-formed project ideas.
 
-💙 Let's connect, innovate, and create technology that makes a difference!
+💙 Let's connect, and build technology that makes a difference.
+
